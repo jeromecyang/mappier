@@ -6,4 +6,4 @@ layout: home
 ---
 
 <div class="center" style="font-size: 64px;">Mappier</div>
-<div class="center" style="font-size: 28px;">Creating Maps that Makes a Difference</div>
+<div class="center" style="font-size: 28px;">Creating Maps that Make a Difference</div>
